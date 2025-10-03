@@ -1,27 +1,106 @@
-<h1 align="center">Hi 👋, I'm Hoang Kiet</h1>
-<h3 align="center">"I’m a back-end developer from Hanoi, Vietnam, passionate about building scalable systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devlinhoang1216&label=Profile%20views&color=0e75b6&style=flat" alt="devlinhoang1216" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devlinhoang1216" alt="devlinhoang1216" /></a> </p>
-
-- 📫 How to reach me **fpt.kiethv1216@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/devlinhoang1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devlinhoang1216" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/văn-kiệt-hoàng-7532b7388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/văn-kiệt-hoàng-7532b7388" height="30" width="40" /></a>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Hi%20👋,%20I'm%20Hoang%20Kiet&fontSize=42&fontColor=FDFDFD&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20from%20Vietnam&descAlignY=60&descAlign=50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- SHORT BIO -->
+<h3 align="center">
+  🚀 Passionate about building secure and scalable systems <br/>
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devlinhoang1216&show_icons=true&locale=en&layout=compact" alt="devlinhoang1216" /></p>
+<br/>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devlinhoang1216&show_icons=true&locale=en" alt="devlinhoang1216" /></p>
+<!-- BADGES SECTION -->
+<p align="center">
+  <!-- Profile Views -->
+  <a href="https://github.com/DevlinHoang1216">
+    <img alt="views" title="GitHub Profile Views"
+         src="https://custom-icon-badges.demolab.com/badge/Profile%20Views-37-E1AD0E?style=for-the-badge&labelColor=E1AD0E&logo=eye&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devlinhoang1216&" alt="devlinhoang1216" /></p>
+  <!-- Followers -->
+  <a href="https://github.com/DevlinHoang1216?tab=followers">
+    <img alt="followers" title="Follow me on GitHub"
+         src="https://custom-icon-badges.demolab.com/github/followers/DevlinHoang1216?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Stars -->
+  <a href="https://github.com/DevlinHoang1216?tab=repositories&sort=stargazers">
+    <img alt="stars" title="Total Stars on GitHub"
+         src="https://custom-icon-badges.demolab.com/github/stars/DevlinHoang1216?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white&label=STARS"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Forks -->
+  <a href="https://github.com/DevlinHoang1216/sd-28-datn-fe-client/network/members">
+    <img alt="forks" title="Forks for sd-28-datn-fe-client"
+         src="https://custom-icon-badges.demolab.com/github/forks/DevlinHoang1216/WebBanDongHo?color=E05D44&labelColor=E05D44&style=for-the-badge&logo=repo-forked&logoColor=white&label=FORKS"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- TROPHY -->
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=DevlinHoang1216&theme=flat&row=1&column=6&margin-w=15&margin-h=15" alt="trophy"/>
+</p>
+
+---
+
+
+## 📫 How to reach me
+- 📧 Email: **fpt.kiethv1216@gmail.com**
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://dev.to/devlinhoang1216" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hoang-kiet" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50" style="margin: 10px;"/>
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devlinhoang1216&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlinhoang1216&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlinhoang1216&theme=tokyonight" alt="streak"/>
+</p>
+
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+</p>
